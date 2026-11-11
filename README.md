@@ -1,16 +1,36 @@
-## Hi there 👋
+# CURRICULUM VITAE
 
-<!--
-**JorgeArtsGH/JorgeArtsGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Datos Personales
+- **Nombre:** Jorge
+- **Primer Apellido:** García
+- **Segundo Apellido:** Fernández
+## Estudios
 
-Here are some ideas to get you started:
+* ###### **BACHILLERATO**
+* ###### **CICLO FORMATIVO GRADO SUPERIOR DAI (_DESARROLLO DE APLICACIONES INFORMÁTICAS_)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Empleos
+
+### 2001-2002
+
+* MetroRed Online
+* Glokal Consulting
+    * Calculo
+    * Sapiens
+
+### 2026
+1. Tajamar
+    1. Teoría
+    2. Práctica
+
+## Proyectos
+- **Proyecto 1:** Empleados
+- **Proyecto 2:** Veterianrio
+- **Proyecto 3:** Spa
+- **Proyecto 4:** Taller
+
+## Images
+
+[![Logo de Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
+
+![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
